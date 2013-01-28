@@ -1,4 +1,3 @@
-# $Id: init.pp 4922 2011-12-15 13:42:07Z uwaechte $
 class pbuilder ($ensure = "present",
     $runas = "jetty",
     $aptmirror = "ftp-stud.hs-esslingen.de",

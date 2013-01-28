@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# $Id: run_pbuilder.sh 4765 2011-11-02 12:47:26Z uwaechte $
 
 DSC=$1
 export ARCH=$2

@@ -1,4 +1,3 @@
-# $Id: get_source.rb 4277 2011-04-22 21:13:05Z uwaechte $
 # Ruby snipplet used in jenkins buildstep
 # It fetches the package's sources
 puts "======> INIT BEGIN <=============="
